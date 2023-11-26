@@ -1,4 +1,4 @@
-# # Instagram - Youtube Music - Travel App
+# Instagram - Youtube Music - Travel App
 
 
 [@keyvanarasteh]
@@ -6,10 +6,15 @@ https://github.com/keyvanarasteh
 
 
 
-SCREENSHOTS
+## SCREENSHOTS
 
-[INSTAGRAM](https://prnt.sc/L-YbICRLm0V-)
+### INSTAGRAM
+![INSTAGRAM](https://github.com/batuhandavuts/isu_odev2/assets/119708000/93206136-76df-44f5-ac23-7e5f3e04ae84)
 
-[YT MUSIC](https://prnt.sc/TtOHduNZn5Za)
 
-[TRAVEL APP](https://prnt.sc/KhK4ErI9KJ-X)
+### YT MUSIC
+![YTMUSIC](https://github.com/batuhandavuts/isu_odev2/assets/119708000/1fbc0848-6492-4bcc-b46b-2ca452117cba)
+
+### EXPLORE APP
+![EXPLORE APP](https://github.com/batuhandavuts/isu_odev2/assets/119708000/d395c912-8017-4905-927f-7b2f8436b27d)
+
